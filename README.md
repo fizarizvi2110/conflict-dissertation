@@ -1,6 +1,6 @@
 # More Frequent, Less Effective: Aerial Strikes and Insurgent Violence in Iraq (2016–2020)
 
-> MSc dissertation — Applied Social Data Science, London School of Economics (MY400)
+> MSc dissertation — Applied Social Data Science, London School of Economics
 
 Estimating the effect of Global Coalition against Daesh airstrikes on insurgent violence during the anti-ISIL campaign in Iraq. Using a province-month panel and a distributed-lag design, this project separates two competing mechanisms: whether strikes **provoke** retaliatory violence, and whether they **degrade** insurgent operational capacity.
 
@@ -74,27 +74,6 @@ Cumulative effect **−0.049** (p = 0.011). This effect depends on sustained bom
 │   └── analysis.ipynb               # main analysis and figures
 ├── figures/
 └── README.md
-```
-
-*(Adjust to match your actual file names before committing.)*
-
----
-
-## Reproducing the analysis
-
-```bash
-# 1. Clone
-git clone https://github.com/fizarizvi2110/<repo-name>.git
-cd <repo-name>
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Build the panel (optional — assembled panel is included)
-python src/build_panel.py
-
-# 4. Run the models
-python src/models.py
 ```
 
 ---
