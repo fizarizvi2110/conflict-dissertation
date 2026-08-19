@@ -1,0 +1,16 @@
+# Data (large / licensed — not redistributed)
+data/ACLED.csv
+data/GTD.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# GIS shapefile (large / external — download from gadm.org)
+gadm41_IRQ_shp/
+
+# macOS
+.DS_Store
+.Rhistory
