@@ -2,7 +2,7 @@
 
 > MSc dissertation — Applied Social Data Science, London School of Economics (MY400)
 
-Estimating the causal effect of Global Coalition against Daesh airstrikes on insurgent violence during the anti-ISIL campaign in Iraq. Using a province-month panel and a distributed-lag design, this project separates two competing mechanisms: whether strikes **provoke** retaliatory violence, and whether they **degrade** insurgent operational capacity.
+Estimating the effect of Global Coalition against Daesh airstrikes on insurgent violence during the anti-ISIL campaign in Iraq. Using a province-month panel and a distributed-lag design, this project separates two competing mechanisms: whether strikes **provoke** retaliatory violence, and whether they **degrade** insurgent operational capacity.
 
 ---
 
